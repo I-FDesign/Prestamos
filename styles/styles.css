@@ -46,6 +46,7 @@ body{
 }
 .main .first .info .car img{
 	vertical-align: top;
+	width: 100%;
 }
 .main .first .info .block{
 	margin-top: 20px;
@@ -190,6 +191,9 @@ body{
 .lospasos .trespasos{
 	display: flex;
 	justify-content: center;
+}
+.lospasos .trespasos img{
+	width: 100%;
 }
 .lospasos .pasos{
 	margin-top: 40px;
