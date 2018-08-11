@@ -313,6 +313,10 @@ body{
 		width: 90%;
 		margin:0 auto;
 	}
+	.main .first .info .car img{
+		height: 150px;
+		width: auto;
+	}
 	.main .first .form{
 		margin:0 auto;
 		margin-top: 40px;		
