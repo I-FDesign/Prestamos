@@ -194,7 +194,7 @@ body{
 	justify-content: center;
 }
 .lospasos .trespasos img{
-	width: 100%;
+	width: 75%;
 	height: auto;
 }
 .lospasos .pasos{
@@ -424,6 +424,9 @@ body{
 	.main .first .info .logo img{
 		width: 40%;
 	}
+	.lospasos .trespasos img{
+		width: 100%;
+	}
 	.informacion .cftea{
 		font-size: 25px;
 	}
@@ -434,6 +437,10 @@ body{
 	}
 }
 @media screen and (max-width: 360px){
+	.main .first .info .car img{
+		height: 130px;
+		width: auto;
+	}
 	.imgs .left{
 		width: 90%;
 		padding:0;
